@@ -1,10 +1,11 @@
 # Решатель квадратных уравнений
 
-[TODO. Здесь будет описание проекта]
+Function to solve quadratic equation
 
 # Как использовать
 
-[TODO. Здесь будет описание программного интерфейса: функции, их аргументы, формат ответа]
+As input function gets three numeric arguments a,b,c as in quadratic equation.
+Answer is a pair of values divided by comma. Can be "numeric, numeric", "numeric, None", "None, None"
 
 # Как запустить
 
